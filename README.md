@@ -1,4 +1,4 @@
-Aaron Teixeira Alves Dias - [Data Scientist/Engineer & FullStack Developer] 👋
+Aaron Teixeira Alves Dias - [Data Scientist / FullStack Developer] 👋
 
 <!--
 **aaronMaiden0/aaronMaiden0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
